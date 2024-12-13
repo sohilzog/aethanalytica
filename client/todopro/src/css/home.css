@@ -1,0 +1,6 @@
+.home-background {
+    background-image: url('../assets/images/bg2.jpg'); /* Adjusted path */
+    background-size: cover;
+    background-position: center;
+    height: 100vh; /* Adjust height as needed */
+}

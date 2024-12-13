@@ -1,0 +1,40 @@
+/* header.css */
+
+.navbar {
+    padding: 1rem;
+  }
+  
+  .navbar-brand {
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  
+  .nav-link {
+    font-size: 1.1rem;
+    margin: 0 1rem;
+    transition: color 0.3s;
+  }
+  
+  .nav-link:hover {
+    color: #ffcc00; /* Change color on hover */
+  }
+  
+  .navbar-toggler {
+    border: none; /* Remove border from the toggler */
+  }
+  .navbar .nav-link {
+    color: black; /* Set the font color to black */
+  }
+  
+.navbar .navbar-brand {
+    color: black; /* Set the brand font color to black */
+  } 
+  
+  .navbar-toggler-icon {
+    background-color: #fff; /* Change color of the toggler icon */
+  }
+  
+  .container-fluid {
+    max-width: 1200px; /* Set a max width for the navbar */
+    margin: auto; /* Center the navbar */
+  }
